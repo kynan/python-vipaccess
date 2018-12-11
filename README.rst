@@ -1,3 +1,9 @@
+Deprecation Notice
+==================
+
+This repository is no longer maintained. Please use the fork by @dlenski:
+https://github.com/dlenski/python-vipaccess
+
 python-vipaccess
 ================
 
